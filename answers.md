@@ -11,4 +11,4 @@
 6. Print All Numbers and Sum Pairs:
     Linear O(n) (Again, 2n)
 7. Is Prime:
-    Either Linear O(n) OR Linear-Logarithmic O(log n)
+    Linear O(n)
